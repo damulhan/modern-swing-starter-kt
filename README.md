@@ -2,6 +2,8 @@
 
 Java Swing + FlatLaf + Kotlin Flow/Coroutines 기반의 현대적인 데스크톱 GUI 아키텍처 스타터 템플릿입니다.
 
+> 💡 **Java 버전**: [damulhan/modern-swing-starter](https://github.com/damulhan/modern-swing-starter) (Java + JGoodies/FlatLaf 기반)
+
 **Kotlin Data Class**, **StateFlow**, **kotlinx-coroutines-swing** (`Dispatchers.Swing`)을 적용했습니다.
 
 ## 핵심 기능 및 구성
