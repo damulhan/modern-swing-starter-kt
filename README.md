@@ -4,6 +4,11 @@ Java Swing + FlatLaf + Kotlin Flow/Coroutines 기반의 현대적인 데스크�
 
 > 💡 **Java 버전**: [damulhan/modern-swing-starter](https://github.com/damulhan/modern-swing-starter) (Java + JGoodies/FlatLaf 기반)
 
+<p align="center">
+  <img src="./docs/images/screenshot-light.jpg" alt="Light Theme Preview" width="49%" />
+  <img src="./docs/images/screenshot-dark.jpg" alt="Dark Theme Preview" width="49%" />
+</p>
+
 **Kotlin Data Class**, **StateFlow**, **kotlinx-coroutines-swing** (`Dispatchers.Swing`)을 적용했습니다.
 
 ## 핵심 기능 및 구성
